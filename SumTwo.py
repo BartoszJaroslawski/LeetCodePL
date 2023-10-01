@@ -12,8 +12,8 @@ def twoSum(nums: list[int], target: int) -> list[int]:
                     
                     return["Oto wynik: ", i, j] 
 
-print("sumka to: ",twoSum([2,3,4,5,6], 5))
-print("pieron znalazl od razu te miejsca w tablicy")
-print("sumka to: ",twoSum([2,3,4,5,6], 11))
-print("sumka to: ",twoSum([2,3,4,5,6], 7))
-print("sumka to: ",twoSum([2,3,4,5,6], 9))
+print("suma to: ",twoSum([2,3,4,5,6], 5))
+print("Znalazl od razu te miejsca w tablicy")
+print("suma to: ",twoSum([2,3,4,5,6], 11))
+print("suma to: ",twoSum([2,3,4,5,6], 7))
+print("suma to: ",twoSum([2,3,4,5,6], 9))
